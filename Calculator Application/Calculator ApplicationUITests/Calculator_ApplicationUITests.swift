@@ -2,7 +2,7 @@
 //  Calculator_ApplicationUITests.swift
 //  Calculator ApplicationUITests
 //
-//  Created by Maxwell Frederickson on 2/24/17.
+//  Created by Maxwell Frederickson on 2/26/17.
 //  Copyright © 2017 MaxwellFrederickson. All rights reserved.
 //
 
